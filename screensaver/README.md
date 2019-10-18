@@ -1,7 +1,3 @@
 # Logo Bounce
 
-This project is a "screensaver" designed for the media wall in the HCC. The main image is a logo of umw with a solid-colored square behind it. That logo moves around in the open space and changes color whenever it strikes a wall. The walls around this space are designed to match the opening on the media wall, so the effect is the logo bouncing around on that irregularly-shaped screen. 
-
-For version I'm sharing here, run it by copying the javascript [source code](forthewall.js) into a [p5.js editor](http://editor.p5js.org). Spawn new logos with the space bar.
-
-The inspiration for this project is the classic [bouncing DVD logo](https://www.youtube.com/watch?v=QOtuX0jL85Y).
+This screensaver came to be from me messing around in the P5JS editor. I watched a tutorial for how to make a bouncing ball, then learned that you can make the background transparent and see all of the sketches of the ball. After that I just messed around with it and threw in some code I found (https://p5js.org/examples/transform-scale.html) that was not made for a bouncing ball just to see what would happen. It turned out to look really nice so I kept it in and tweaked it some until I liked where it was.
